@@ -32,5 +32,5 @@ public class CourseDeletion {
 	table.delete(delete);
 
 	
-		System.out.println("row2"+row1);
+		System.out.println("row2 branch 02"+row1);
 }}
